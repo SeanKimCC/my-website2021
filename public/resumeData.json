@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Sean Kim",
+    "occupation": "Software Developer",
+    "description": "I'm a fourth year Computer Engineering student at University of Waterloo, and a passionate",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Computer Engineering student at University of Waterloo with experience at various companies as a software developer intern. I am passionate about software development and enjoy learning and expanding my knowledge.",
+    "contactmessage": "Shoot me a message to get in touch!",
+    "email": "sswkim@uwaterloo.ca",
+    "phone": "+1-416-688-2605",
+    "address": {
+      "city": "Toronto "
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/seankimuw/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/SeanKimCC",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Waterloo",
+        "degree": "B.A.Sc in Computer Engineering",
+        "graduation": "Expected April 2022",
+        "description": "HELLO"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Condos.ca",
+        "title": "Full Stack Developer",
+        "years": "January 2021 - April 2021"
+      },
+      {
+        "company": "Cyclica Inc.",
+        "title": "Software Developer",
+        "years": "May 2020 - August 2020"
+      },
+      {
+        "company": "Defense Security Agency",
+        "title": "Intelligence Analyist",
+        "years": "March 2018 - November 2019"
+      },
+      {
+        "company": "YuJa",
+        "title": "Software Developer",
+        "years": "January 2017 - April 2017"
+      },
+      {
+        "company": "ICF Next",
+        "title": "Junior Developer",
+        "years": "May 2016 - August 2016"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "Laravel",
+        "level": "85%"
+      },
+      {
+        "name": "React.js",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "62%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MenNal Hairbook",
+        "category": "Hairbook website",
+        "image": "mennal-hairbook.png",
+        "url": "https://kinz-handbook-frontend.herokuapp.com/hairstyles/"
+      },
+      {
+        "title": "CMHC Map Dashboard",
+        "category": "Click a neighbourhood to see its statistics!",
+        "image": "cmhc-website.png",
+        "url": "https://cmhc-hackathon.web.app/"
+      },
+      {
+        "title": "LIFO",
+        "category": "Prototype is unpublished",
+        "image": "lifo.png",
+        "url": "https://seankimcc.github.io/my-website/static/media/LIFO_Korean.aa48533e.pdf"
+      },
+      {
+        "title": "Goondae.com",
+        "category": "Simple website for South Korean soldiers",
+        "image": "goondae.png",
+        "url": "https://www.goondae.com"
+      }
+    ]
+  }
+}
